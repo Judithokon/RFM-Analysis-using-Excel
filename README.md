@@ -1,4 +1,4 @@
-# RFM Analysis for Customer Segmentation and profiling
+# RFM Analysis for Customer Segmentation and profiling using Excel
 
 This repository contains the code and documentation for the NeighborMart Customer Segmentation Project. The full report and detailed documentation can be found on [Medium](https://medium.com/@okon.judith/rfm-analysis-for-customer-segmentation-and-profiling-using-excel-4b837b49cbcb).
 
