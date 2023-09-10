@@ -51,3 +51,5 @@ Based on the analysis, the following recommendations were made for marketing str
 4. Win-Back Offers: Offer attractive win-back offers for customers who haven't made a purchase in a while.
 
 Please refer to the full documentation on [Medium](https://medium.com/@okon.judith/rfm-analysis-for-customer-segmentation-and-profiling-using-excel-4b837b49cbcb) for a detailed overview of the project, analysis, and findings.
+
+![Image](RFM Analysis Dashboard.png)
