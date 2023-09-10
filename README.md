@@ -53,3 +53,5 @@ Based on the analysis, the following recommendations were made for marketing str
 Please refer to the full documentation on [Medium](https://medium.com/@okon.judith/rfm-analysis-for-customer-segmentation-and-profiling-using-excel-4b837b49cbcb) for a detailed overview of the project, analysis, and findings.
 
 ![Image](RFM Analysis Dashboard.png)
+<img align="center" alt="coding" width="2000" src="RFM Analysis Dashboard.png">
+
